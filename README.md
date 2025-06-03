@@ -1,7 +1,7 @@
 # Windows Patch Automation Script
 
 **Author:** Bharath Devulapalli  
-**Date:** 2025-06-03  
+**Date:** 2025-05-03  
 **Purpose:** Automate Windows patch management using PowerShell with logging, reboot handling, and optional email reporting.
 
 ---
